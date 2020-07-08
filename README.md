@@ -1,4 +1,8 @@
-A simple command-line application.
+## Simple Calculator CLI
+Calculate simple math expressions.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+### Usage
+Run with command line arguments.
+   
+
+
