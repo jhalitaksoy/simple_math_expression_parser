@@ -1,4 +1,4 @@
-## Simple Calculator CLI
+## Simple Math Expression Parser
 Calculate simple math expressions.
 
 ### Usage
